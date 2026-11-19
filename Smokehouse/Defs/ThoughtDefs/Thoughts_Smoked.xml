@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThoughtDef>
+    <defName>AteSmokedMeal</defName>
+    <durationDays>1</durationDays>
+    <stages>
+      <li>
+        <label>ate cured provisions</label>
+        <description>Smoke, salt and sun did the work of a freezer. Not a feast, but it tastes like a job well done.</description>
+        <baseMoodEffect>2</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>
