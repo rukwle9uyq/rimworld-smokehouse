@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Smokehouse.ThingDef.Smokehouse.label>熏制作坊</Smokehouse.ThingDef.Smokehouse.label>
+  <Smokehouse.ThingDef.Smokehouse.description>围绕着一堆闷烧的火坑搭起来的低矮木棚。挂在横杆上的肉在烟里慢慢熟成，架在炭火上方的蔬菜片则被烘干。不需要电力，不需要冷库，只要木头和时间。</Smokehouse.ThingDef.Smokehouse.description>
+
+  <Smokehouse.ThingDef.SmokedMeat.label>熏肉</Smokehouse.ThingDef.SmokedMeat.label>
+  <Smokehouse.ThingDef.SmokedMeat.description>在小火上方熟成的肉块，挂到表面干燥紧实为止。又韧又咸，带着烟味，但放在行囊里一整季也不会坏，一天都不需要冷藏。</Smokehouse.ThingDef.SmokedMeat.description>
+
+  <Smokehouse.ThingDef.DriedVegetables.label>蔬菜干</Smokehouse.ThingDef.DriedVegetables.label>
+  <Smokehouse.ThingDef.DriedVegetables.description>在熏坑上方的架子上烘干的蔬菜薄片。轻得像谷壳，能存好几个月；等行商队伍终于支起锅烧上水，泡一泡也还算能吃。</Smokehouse.ThingDef.DriedVegetables.description>
+
+</LanguageData>
