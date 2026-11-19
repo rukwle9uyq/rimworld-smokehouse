@@ -1,0 +1,19 @@
+Smokehouse - a RimWorld mod
+Copyright (c) 2026 rukwle9uyq
+
+You are free to:
+
+  - Use this mod in any mod list, stream, video or let's play.
+  - Include it in mod packs and collections, as long as it is distributed
+    unmodified and this notice stays in place.
+  - Read, learn from and reuse the XML in your own mods.
+  - Redistribute modified versions, provided you rename the mod and change
+    the packageId so the two versions do not collide.
+
+You may not:
+
+  - Sell this mod or any modified version of it.
+  - Reupload it to a paid platform or behind a paywall.
+
+The mod is provided as-is, without warranty of any kind. If it eats your
+colony, that is between you and the fire.
