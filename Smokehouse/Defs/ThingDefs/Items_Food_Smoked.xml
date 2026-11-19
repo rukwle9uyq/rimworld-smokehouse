@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="MealBase">
+    <defName>SmokedMeat</defName>
+    <label>smoked meat</label>
+    <description>Cuts of meat cured over a low wood fire, then hung until the surface is dry and firm. It is tough, salty and tastes of smoke, but it survives a whole season in a saddlebag without a single day of refrigeration.</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/SmokedMeat</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MarketValue>3.2</MarketValue>
+      <Nutrition>0.12</Nutrition>
+      <Mass>0.025</Mass>
+      <WorkToMake>900</WorkToMake>
+      <DeteriorationRate>2</DeteriorationRate>
+      <Flammability>0.6</Flammability>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>8</optimalityOffsetHumanlikes>
+      <tasteThought>AteSmokedMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>45</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="MealBase">
+    <defName>DriedVegetables</defName>
+    <label>dried vegetables</label>
+    <description>Thin slices of vegetables dried on the racks above the smoke pit. Light as chaff, keeps for months, and rehydrates into something passable when a caravan cook finally gets a pot of water going.</description>
+    <graphicData>
+      <texPath>Things/Item/Meal/DriedVegetables</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MarketValue>2.6</MarketValue>
+      <Nutrition>0.1</Nutrition>
+      <Mass>0.02</Mass>
+      <WorkToMake>800</WorkToMake>
+      <DeteriorationRate>2</DeteriorationRate>
+      <Flammability>0.7</Flammability>
+    </statBases>
+    <ingestible>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>8</optimalityOffsetHumanlikes>
+      <tasteThought>AteSmokedMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>60</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+
+</Defs>
