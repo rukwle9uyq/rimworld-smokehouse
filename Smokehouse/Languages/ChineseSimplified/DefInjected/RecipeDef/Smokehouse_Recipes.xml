@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Smokehouse.RecipeDef.Make_SmokedMeat.label>熏制肉类</Smokehouse.RecipeDef.Make_SmokedMeat.label>
+  <Smokehouse.RecipeDef.Make_SmokedMeat.description>把生肉挂进熏制作坊熟成。只需要肉，不需要蔬菜，也不需要电力。</Smokehouse.RecipeDef.Make_SmokedMeat.description>
+  <Smokehouse.RecipeDef.Make_SmokedMeat.jobString>正在熏肉。</Smokehouse.RecipeDef.Make_SmokedMeat.jobString>
+
+  <Smokehouse.RecipeDef.Make_DriedVegetables.label>烘干蔬菜</Smokehouse.RecipeDef.Make_DriedVegetables.label>
+  <Smokehouse.RecipeDef.Make_DriedVegetables.description>把生蔬菜切薄，架在火堆上方烘干。只需要植物性食物，不需要肉，也不需要电力。</Smokehouse.RecipeDef.Make_DriedVegetables.description>
+  <Smokehouse.RecipeDef.Make_DriedVegetables.jobString>正在烘干蔬菜。</Smokehouse.RecipeDef.Make_DriedVegetables.jobString>
+
+</LanguageData>
