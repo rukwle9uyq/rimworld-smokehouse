@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>SmokePreserving</defName>
+    <label>smoke preserving</label>
+    <description>Build a sealed timber shed around a smouldering fire and let the smoke do the work. Cured meat and dried vegetables keep for a whole season without a freezer, a battery or a single unit of power.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <prerequisites>
+      <li>Pemmican</li>
+    </prerequisites>
+    <tags>
+      <li>TribalStart</li>
+      <li>Food</li>
+    </tags>
+    <researchViewX>1.0</researchViewX>
+    <researchViewY>4.2</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>
