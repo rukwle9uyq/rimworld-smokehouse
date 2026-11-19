@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Smokehouse</name>
+  <author>rukwle9uyq</author>
+  <packageId>rukwle9uyq.smokehouse</packageId>
+  <modVersion>1.0.0</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <description>Adds a wood-fired smokehouse and a small line of cured provisions.
+
+Pemmican is the only travel food a low-tech colony can make, and it needs both meat and vegetables on hand. Smokehouse fills that gap: a single-ingredient preservation bench that runs on wood instead of power, so a hunting colony, a desert outpost or a gravship galley can turn a surplus of one food type into rations that keep for a season.
+
+- New research: smoke preserving (Neolithic, 600 points)
+- New building: smokehouse, 2x1, wood-fired, no electricity
+- New bills: smoke meat, dry vegetables
+- New items: smoked meat and dried vegetables, light, stack to 75, keep for 45-60 days
+- Small mood bonus when a colonist eats cured provisions
+
+No C# and no DLC required. Safe to add to an existing save; removing it mid-save will drop the smokehouse and any cured food still on the map.</description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+  </loadAfter>
+</ModMetaData>
